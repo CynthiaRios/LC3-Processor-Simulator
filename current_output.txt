@@ -1,0 +1,34 @@
+INST: 5249
+- stage: 1
+------------------
+INST: 5249
+- stage: 2
+INST: 13441
+- stage: 1
+------------------
+INST: 5249
+- stage: 3
+INST: 13441
+- stage: 2
+------------------
+INST: 5249
+- stage: 4
+INST: 13441
+bubble
+- stage: 2
+------------------
+INST: 5249
+- stage: 5
+INST: 13441
+bubble
+- stage: 2
+------------------
+INST: 13441
+- stage: 3
+------------------
+INST: 13441
+- stage: 4
+------------------
+INST: 13441
+- stage: 5
+clk: 8
